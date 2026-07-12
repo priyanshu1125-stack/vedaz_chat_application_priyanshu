@@ -288,11 +288,36 @@ Extra user-friendly and polish features implemented on top of the base requireme
 
 | Deliverable | Status |
 |-------------|--------|
-| GitHub repository link | Pending — push code and add link here |
+| GitHub repository link | Pending — see push instructions below |
 | APK file | N/A — React web app (not React Native) |
 | Screen recording of the application | Pending — record and upload to Google Drive |
 | Google Drive link (APK or screen recording) | Pending — add link here |
 | README with setup instructions | Done — this file |
+
+### Push to GitHub
+
+The project is committed locally. To publish to a new GitHub repo:
+
+**Option A — GitHub CLI (recommended):**
+
+```bash
+cd ChatApplication
+gh auth login
+gh repo create ChatApplication --public --source=. --remote=origin --push
+```
+
+**Option B — Manual:**
+
+1. Create a new empty repo on [github.com/new](https://github.com/new) (e.g. `ChatApplication`)
+2. Run:
+
+```bash
+cd ChatApplication
+git remote add origin https://github.com/<your-username>/ChatApplication.git
+git push -u origin main
+```
+
+3. Paste the repo URL here: `https://github.com/<your-username>/ChatApplication`
 
 **Screen recording should demonstrate:**
 
