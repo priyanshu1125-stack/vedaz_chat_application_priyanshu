@@ -304,10 +304,10 @@ Extra user-friendly and polish features implemented on top of the base requireme
 
 | Deliverable                                 | Status                                      |
 | ------------------------------------------- | ------------------------------------------- |
-| GitHub repository link                      | Pending — see push instructions below       |
+| GitHub repository link                      | Completed — see push instructions below       |
 | APK file                                    | N/A — React web app (not React Native)      |
-| Screen recording of the application         | Pending — record and upload to Google Drive |
-| Google Drive link (APK or screen recording) | Pending — add link here                     |
+| Screen recording of the application         | Completed |
+| Google Drive link (APK or screen recording) | Completed — https://drive.google.com/file/d/1pE2oKXR9Hdwg8HS5SFd7nTvnRZw-mMhn/view?usp=drivesdk                     |
 | README with setup instructions              | Done — this file                            |
 
 
