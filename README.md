@@ -257,7 +257,7 @@ Features listed in the original problem statement:
 | Online/offline user status                  | Done                                          |
 | Message read/delivered status               | Done                                          |
 | Store messages in MongoDB                   | Done                                          |
-| Deploy backend (Render, Railway, etc.)      | done (Render)                                     |
+| Deploy backend (Render, Railway, etc.)      | Done (Render)                                     |
 
 
 ---
@@ -297,6 +297,14 @@ Extra user-friendly and polish features implemented on top of the base requireme
 
 
 ---
+## Live Deployment
+
+### GitHub Repository
+https://github.com/priyanshu1125-stack/vedaz_chat_application_priyanshu
+
+### Backend API (Render)
+https://vedaz-chat-application-priyanshu.onrender.com  |
+
 
 ## Submission
 
@@ -308,44 +316,6 @@ Extra user-friendly and polish features implemented on top of the base requireme
 | Screen recording of the application | Completed |
 | Google Drive link (Screen Recording) | https://drive.google.com/file/d/1pE2oKXR9Hdwg8HS5SFd7nTvnRZw-mMhn/view?usp=drivesdk |
 | README with setup instructions | Completed |
-
-### Push to GitHub
-
-The project is committed locally. To publish to a new GitHub repo:
-
-**Option A — GitHub CLI (recommended):**
-
-```bash
-cd ChatApplication
-gh auth login
-gh repo create ChatApplication --public --source=. --remote=origin --push
-```
-
-**Option B — Manual:**
-
-1. Create a new empty repo on [github.com/new](https://github.com/new) (e.g. `ChatApplication`)
-2. Run:
-
-```bash
-cd ChatApplication
-git remote add origin https://github.com/<your-username>/ChatApplication.git
-git push -u origin main
-```
-
-1. Paste the repo URL here: `https://github.com/<your-username>/ChatApplication`
-
-**Screen recording should demonstrate:**
-
-- Login with a friendly name
-- Rename and logout
-- Sending and receiving messages in real time across two tabs
-- Message timestamps and date labels (Today / Yesterday)
-- Emoji picker
-- Dark mode toggle
-- Typing indicator and online user count
-- Messages persisting after page refresh
-
----
 
 ## Architecture
 
