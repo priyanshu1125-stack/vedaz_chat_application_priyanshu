@@ -303,7 +303,7 @@ Extra user-friendly and polish features implemented on top of the base requireme
 https://github.com/priyanshu1125-stack/vedaz_chat_application_priyanshu
 
 ### Backend API (Render)
-https://vedaz-chat-application-priyanshu.onrender.com  |
+https://vedaz-chat-application-priyanshu.onrender.com  
 
 
 ## Submission
@@ -311,7 +311,7 @@ https://vedaz-chat-application-priyanshu.onrender.com  |
 | Deliverable | Status |
 |-------------|--------|
 | GitHub Repository | Completed — https://github.com/priyanshu1125-stack/vedaz_chat_application_priyanshu |
-| Live Backend (Render) | https://vedaz-chat-application-priyanshu.onrender.com |
+| Live Backend API (Render) | https://vedaz-chat-application-priyanshu.onrender.com |
 | APK file | N/A — React Web App (not React Native) |
 | Screen recording of the application | Completed |
 | Google Drive link (Screen Recording) | https://drive.google.com/file/d/1pE2oKXR9Hdwg8HS5SFd7nTvnRZw-mMhn/view?usp=drivesdk |
