@@ -257,7 +257,7 @@ Features listed in the original problem statement:
 | Online/offline user status                  | Done                                          |
 | Message read/delivered status               | Done                                          |
 | Store messages in MongoDB                   | Done                                          |
-| Deploy backend (Render, Railway, etc.)      | Not done                                      |
+| Deploy backend (Render, Railway, etc.)      | done (Render)                                     |
 
 
 ---
